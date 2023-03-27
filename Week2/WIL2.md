@@ -1,6 +1,7 @@
 # 2023-1-OC-Web-Study
 
 2주차 (03/21) WIL입니다.
+https://bloom-channel-2ab.notion.site/WIL2-a592d6bd4abc457283751da01134bd06
 
 # WIL2
 
@@ -126,6 +127,9 @@ Weekly I learned Week 2
 
 **→ 버전 관리와 협업을 위한 코드 웹 호스팅 플랫폼 ⇒ Git을 더 쉽고 간편하게 사용할 수 있다.**
 
+
+###
+
 1주차
 
 서버 → [https://contents.premium.naver.com/3mit/wony/contents/220117230634163vp](https://contents.premium.naver.com/3mit/wony/contents/220117230634163vp)
@@ -161,4 +165,3 @@ DNS→[https://hanamon.kr/dns란-도메인-네임-시스템-개념부터-작동-
 [https://wadekang.tistory.com/25](https://wadekang.tistory.com/25)
 
 
-https://bloom-channel-2ab.notion.site/WIL2-a592d6bd4abc457283751da01134bd06
